@@ -11,6 +11,9 @@
 # production
 /build
 
+# design folder
+/Design
+
 # misc
 .DS_Store
 .env.local
