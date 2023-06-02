@@ -1,5 +1,5 @@
 export const Main = () => (
-    <main>
+    <main className="main-body">
         This is main text. Hi There!.
     </main>
 )
