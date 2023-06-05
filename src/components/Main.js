@@ -1,5 +1,7 @@
+import { Hero } from "./Hero";
+
 export const Main = () => (
     <main className="main-body">
-        This is main text. Hi There!.
+        <Hero />
     </main>
 )
